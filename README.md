@@ -1,1 +1,1 @@
-# S3LogCleaning
+# s3-log-cleaner
